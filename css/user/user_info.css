@@ -1,0 +1,12 @@
+body,
+html{
+    background-color:floralwhite;
+}
+.layui-card{
+    margin: 20px;
+padding: 20px;
+}
+.layui-input{
+    width: 400px;
+    padding: 0 10px ;
+}
